@@ -6,7 +6,7 @@ Code repository for advent of code 2022 code challenges
 | 1 |  🌟  |  🌟  |
 | 2 |  🌟  |  🌟  |
 | 3 |  🌟  |  🌟  |
-| 4 |      |      |
+| 4 |  🌟  |  🌟  |
 | 5 |      |      |
 | 6 |      |      |
 | 7 |      |      |
